@@ -1,0 +1,9 @@
+{
+   "name" : "Anchor",
+   "alias" : "witsec-anchor",
+   "version" : 0.1,
+   "minAppVersion" : "4",
+   "components" : [ "witsec-anchor-block" ],
+   "description" : "With this anchor block you can add custom labels/anchors you can link to (ex. index.html#products).",
+   "logo" : "thumbnail.png"
+}

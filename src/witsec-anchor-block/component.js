@@ -1,7 +1,7 @@
 mbrApp.loadComponents(
 	"witsec-anchor",
 	{"witsec-anchor-block":{
-			_group:"Article",
+			_group:"witsec",
 			_onParamsShow: function(e,$params,$block) {
 				this._params.AnchorName = this.AnchorName.replace(/#/, "")
 			},
